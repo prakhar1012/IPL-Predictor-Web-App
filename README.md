@@ -1,4 +1,4 @@
-# IPL-Predictor-Web-App (BY CampusX)
+# IPL-Predictor-Web-App (By CampusX)
 
 ## Credits- CampusX (https://github.com/campusx-official)
 
